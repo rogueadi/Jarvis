@@ -257,7 +257,7 @@ function Home() {
                   Software Engineer
                 </Typography>
                 <Typography variant="subtitle2" textAlign="center">
-                  IHX Private Limited | Jan 2023 – Present
+                  IHX Private Limited | Jan 2023 – May 2025
                 </Typography>
               </Card>
             </TimelineContent>
